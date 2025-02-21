@@ -1,0 +1,12 @@
+Ce projet est un examen pour démontrer les compétences de base en Git et GitHub. about.md file
+git push -u origin feature/about
+git checkout master
+git pull origin master
+git branch -d feature/about
+git branch
+git branch
+
+
+
+
+echo Ce projet est un examen pour démontrer les compétences de base en Git et GitHub. >> about.mdCe projet est un examen pour démontrer les compétences de base en Git et GitHub.
